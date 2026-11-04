@@ -17,9 +17,9 @@ Make sure your laptop has the following installed:
 ### 2. Clone the Project in VS Code
 1. Open **VS Code**.
 2. Open the integrated terminal (**`Ctrl + ~`** or **Terminal -> New Terminal**).
-3. Run the following commands to clone the `migrate-to-web` branch and open it:
+3. Run the following commands to clone the project and open it:
    ```powershell
-   git clone -b migrate-to-web https://github.com/drin-afk/ResortPOSSystem.git
+   git clone https://github.com/drin-afk/ResortPOSSystem.git
    cd ResortPOSSystem
    code .
    ```
