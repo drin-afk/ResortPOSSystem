@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+ResortPOSSystem/build/
+ResortPOSSystem/dist/
+
+# Environment & Secrets
+.env
+.env.*
+*.env
+!.env.example
+!*.env.example
+*.pem
+*.key
+*.cert
+config.local.php
+
+# NetBeans / IDE private files (contains local user paths & state)
+nbproject/private/
+ResortPOSSystem/nbproject/private/
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs & OS files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+desktop.ini
