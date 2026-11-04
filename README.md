@@ -1,4 +1,4 @@
-# Promise Beach Resort POS & Management System (Web Migration)
+# Promise Beach Resort POS & Management System 
 
 Migrated from **Java NetBeans (Java Swing + JDBC)** to **React.js + PHP 8 REST API (PDO) + MySQL (XAMPP)**.
 
